@@ -1,0 +1,91 @@
+/* For all tex color white: */
+*{
+    color: whitesmoke
+}
+/* For BACKGROUND COLOR OF FORM SECTION */
+#form{
+    background-color: blueviolet;
+}
+#main{
+    width: 110%;
+    display:block;
+    background-color:white;
+    margin: auto;
+   
+
+}
+
+
+/* FOR ALLIGN HEADER TO CENTER  */
+     #logo{
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+         width: 70%;
+         margin-bottom: -30px;
+        
+        
+     } 
+     #reg{
+         font-family: 'Times New Roman', Times, serif;
+         text-align: center;
+         color: blue;
+         font-size: 30px;
+         text-decoration: underline;
+         margin-top: 0px;
+         width: 70%;
+         margin-left: 150px;
+
+     }
+     /* FOR LABEL NAME AND INPUT BOXES ALLIGNEMENT */
+     label{
+         width: 240px;
+         display: inline-block;
+         color: whitesmoke;
+     }
+     /* FOR BLACK COLOR OF OPTION AND SELECT */
+     option,select{
+         color: black;
+     }
+     /* FOR INPUT BOX TEXT COLOR */
+     input,textarea{
+         color: black;
+     }
+     table{
+         width: 50%;
+         text-align: center;
+         margin-left: 230px;
+         
+         
+     }
+     td{
+         background-color:whitesmoke;
+     }
+     .s{
+         background:blueviolet;
+         border: none;
+     }
+     body{
+         margin: auto;
+         display: block;
+         width: 70%;
+         border-color: ;
+         
+     }
+     #char_max{
+         display: inline-block;
+         margin-left: 420px;
+         margin-top: -20px;
+     }
+     #but{
+         margin-left: 470px ;
+     }
+    #subm_img{
+        display: block;
+        width: auto;
+        margin: auto;
+    }
+    #go_back{
+        display: block;
+        margin-left: 320px;
+    }

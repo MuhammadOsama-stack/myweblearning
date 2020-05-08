@@ -1,0 +1,185 @@
+body{
+    
+    background-image: url("picture/nature5.png");
+    background-size: cover;
+    min-width: 50px;
+    max-width: 100%;
+    min-width: 100px;
+    max-width: 100%;
+    
+   
+
+}
+h1{
+    /* width: 50%; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    letter-spacing: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    text-shadow: 10px 5px 10px rgb(184, 112, 226);
+    color: white;
+    
+    
+}
+#header{
+    /* width: 100%; */
+    /* background: darkgray; */
+    margin-top:-35px;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align: center;
+}
+#nav {
+    /* background-color:cornsilk; */
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top:-35px;
+    padding: 10px;
+    letter-spacing: 5px;
+    font-size: larger;
+    font-weight:normal ;
+   
+    
+}
+ul{
+    list-style: none;
+}
+li{
+    display:inline;
+    padding: 10px;
+    text-shadow: 1px 1px 1px red;
+    margin-bottom: -50px;
+}
+#S{
+    display:inline-block;
+}
+#sl:hover{
+    text-decoration: underline cornflowerblue;
+    color:red;
+  
+}
+#login:hover>a{
+    margin-left: 5px;
+    color: red;
+    
+   
+}
+label{
+    text-decoration: underline rgb(23, 51, 102);
+    letter-spacing: 1px;
+}
+#home:hover>a{
+    color: red;
+
+}
+#myprof:hover>a{
+    color: red;
+
+}
+#myproj:hover>a{
+    color: red;
+
+}
+#inp{
+    margin-left: 480px;
+   
+}
+#search{
+    border: 1px solid red;
+    border-radius: 5px;
+}
+#search:hover{
+    background-color:lightgray;
+    color:royalblue;
+    font-size: medium;
+    
+}
+#login_form{
+    /* border: 1px solid red; */
+    width: 400px;
+    height: 400px;
+    margin: 70px auto 0px auto;
+    text-align: left;
+}
+form{
+    margin: 30px;
+    width: 300px;
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    
+
+}
+form label{
+    display: inline-block;
+    width: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    padding-left: 10px;
+    margin-top: -20px;
+    margin-bottom: 10px;
+    
+   
+
+}
+form input{
+    margin-left: 20px;
+    background-color:blue;
+    opacity: 0.8;
+    border-radius: 10px;
+    border: 1px solid blue;
+    color:white;
+    height: 30px;
+    width: 80%;
+    padding-left: 10px;
+   
+    
+}
+form input:hover{
+    background-color: rgb(85, 76, 81);
+}
+#email{
+   
+    background-size: 20px;
+    background-repeat:no-repeat ;
+    padding-left: 5px 5px 5px 30px;
+}
+h3{
+    /* margin-top: 100px; */
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 130%;
+    color: white;
+    height: 2px;
+    margin-bottom: 2px;
+    letter-spacing: 1px;
+
+    
+}
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 5px;
+    background-color: rgb(148, 148, 236);
+    opacity: 0.8;
+    color: white;
+    font-size: medium;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    
+
+}
+button:hover{
+    background-color: rgb(85, 76, 81);
+}
+
